@@ -1,0 +1,18 @@
+{
+  "siteType": "fashion-store",
+  "brand": "Arifa Fashion",
+  "categories": [
+    "2 Piece",
+    "3 Piece",
+    "One Piece",
+    "Kurti",
+    "Tops",
+    "Hijab",
+    "Bags"
+  ],
+  "theme": {
+    "background": "#faf7f1",
+    "accent": "#ad7950",
+    "style": "premium-elegant"
+  }
+}

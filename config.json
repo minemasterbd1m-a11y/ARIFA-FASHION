@@ -1,0 +1,10 @@
+{
+  "brandName": "Arifa Fashion",
+  "logoPath": "assets/arifa-fashion-logo.webp",
+  "theme": "warm-cream-gold",
+  "currency": "BDT",
+  "currencySymbol": "৳",
+  "adminPath": "admin.html",
+  "adminDemoPassword": "Arifa@123",
+  "storage": "browser-localStorage"
+}
